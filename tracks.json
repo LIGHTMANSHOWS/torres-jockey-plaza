@@ -1,0 +1,297 @@
+{
+  "schema": "lightman/joker-plaza-shows/v1",
+  "tracks": [
+    {
+      "id": "encuentro",
+      "title": "Encuentro dorado",
+      "bpm": 100,
+      "duration": 115.19999999999999,
+      "ignitionAt": 19.2,
+      "theme": "Lounge · cálido y elegante",
+      "palette": "gold",
+      "audio": "assets/audio/encuentro.mp3",
+      "audioWav": "assets/audio/encuentro.wav",
+      "cues": [
+        {
+          "name": "Primer resplandor",
+          "start": 0.0,
+          "end": 9.6,
+          "effect": "rise",
+          "palette": "gold"
+        },
+        {
+          "name": "Líneas que despiertan",
+          "start": 9.6,
+          "end": 19.2,
+          "effect": "breathe",
+          "palette": "gold"
+        },
+        {
+          "name": "Encuentro de luz",
+          "start": 19.2,
+          "end": 28.8,
+          "effect": "bloom",
+          "palette": "gold"
+        },
+        {
+          "name": "Ondas ascendentes",
+          "start": 28.8,
+          "end": 38.4,
+          "effect": "waves",
+          "palette": "gold"
+        },
+        {
+          "name": "Coronas en movimiento",
+          "start": 38.4,
+          "end": 48.0,
+          "effect": "orbit",
+          "palette": "gold"
+        },
+        {
+          "name": "Diálogo entre torres",
+          "start": 48.0,
+          "end": 57.6,
+          "effect": "dialogue",
+          "palette": "gold"
+        },
+        {
+          "name": "Cascada de color",
+          "start": 57.6,
+          "end": 67.2,
+          "effect": "cascade",
+          "palette": "gold"
+        },
+        {
+          "name": "Respirar la plaza",
+          "start": 67.2,
+          "end": 76.8,
+          "effect": "breathe",
+          "palette": "gold"
+        },
+        {
+          "name": "Espirales envolventes",
+          "start": 76.8,
+          "end": 86.4,
+          "effect": "helix",
+          "palette": "gold"
+        },
+        {
+          "name": "El cielo se abre",
+          "start": 86.4,
+          "end": 96.0,
+          "effect": "bloom",
+          "palette": "gold"
+        },
+        {
+          "name": "Celebración",
+          "start": 96.0,
+          "end": 105.6,
+          "effect": "waves",
+          "palette": "gold"
+        },
+        {
+          "name": "Firma de luz",
+          "start": 105.6,
+          "end": 115.2,
+          "effect": "finale",
+          "palette": "gold"
+        }
+      ]
+    },
+    {
+      "id": "pulso",
+      "title": "Pulso de la plaza",
+      "bpm": 120,
+      "duration": 96.0,
+      "ignitionAt": 16.0,
+      "theme": "House · color y celebración",
+      "palette": "party",
+      "audio": "assets/audio/pulso.mp3",
+      "audioWav": "assets/audio/pulso.wav",
+      "cues": [
+        {
+          "name": "La plaza late",
+          "start": 0.0,
+          "end": 8.0,
+          "effect": "rise",
+          "palette": "party"
+        },
+        {
+          "name": "Pulso de bienvenida",
+          "start": 8.0,
+          "end": 16.0,
+          "effect": "dialogue",
+          "palette": "party"
+        },
+        {
+          "name": "Apertura de color",
+          "start": 16.0,
+          "end": 24.0,
+          "effect": "bloom",
+          "palette": "party"
+        },
+        {
+          "name": "Elevación",
+          "start": 24.0,
+          "end": 32.0,
+          "effect": "helix",
+          "palette": "party"
+        },
+        {
+          "name": "Ritmo orbital",
+          "start": 32.0,
+          "end": 40.0,
+          "effect": "orbit",
+          "palette": "party"
+        },
+        {
+          "name": "Pregunta y respuesta",
+          "start": 40.0,
+          "end": 48.0,
+          "effect": "waves",
+          "palette": "party"
+        },
+        {
+          "name": "Cintas en carrera",
+          "start": 48.0,
+          "end": 56.0,
+          "effect": "cascade",
+          "palette": "party"
+        },
+        {
+          "name": "Pausa violeta",
+          "start": 56.0,
+          "end": 64.0,
+          "effect": "breathe",
+          "palette": "party"
+        },
+        {
+          "name": "Giro de energía",
+          "start": 64.0,
+          "end": 72.0,
+          "effect": "dialogue",
+          "palette": "party"
+        },
+        {
+          "name": "Doble expansión",
+          "start": 72.0,
+          "end": 80.0,
+          "effect": "orbit",
+          "palette": "party"
+        },
+        {
+          "name": "Todos al ritmo",
+          "start": 80.0,
+          "end": 88.0,
+          "effect": "helix",
+          "palette": "party"
+        },
+        {
+          "name": "Gran final",
+          "start": 88.0,
+          "end": 96.0,
+          "effect": "finale",
+          "palette": "party"
+        }
+      ]
+    },
+    {
+      "id": "aurora",
+      "title": "Aurora nocturna",
+      "bpm": 108,
+      "duration": 106.66666666666667,
+      "ignitionAt": 17.77777777777778,
+      "theme": "Cinemático · azul, turquesa y violeta",
+      "palette": "aurora",
+      "audio": "assets/audio/aurora.mp3",
+      "audioWav": "assets/audio/aurora.wav",
+      "cues": [
+        {
+          "name": "La hora azul",
+          "start": 0.0,
+          "end": 8.888889,
+          "effect": "breathe",
+          "palette": "aurora"
+        },
+        {
+          "name": "Nace una aurora",
+          "start": 8.888889,
+          "end": 17.777778,
+          "effect": "rise",
+          "palette": "aurora"
+        },
+        {
+          "name": "Horizonte luminoso",
+          "start": 17.777778,
+          "end": 26.666667,
+          "effect": "bloom",
+          "palette": "aurora"
+        },
+        {
+          "name": "Mareas de luz",
+          "start": 26.666667,
+          "end": 35.555556,
+          "effect": "waves",
+          "palette": "aurora"
+        },
+        {
+          "name": "Cúpulas celestes",
+          "start": 35.555556,
+          "end": 44.444444,
+          "effect": "helix",
+          "palette": "aurora"
+        },
+        {
+          "name": "Ecos en el espacio",
+          "start": 44.444444,
+          "end": 53.333333,
+          "effect": "dialogue",
+          "palette": "aurora"
+        },
+        {
+          "name": "Lluvia suave",
+          "start": 53.333333,
+          "end": 62.222222,
+          "effect": "cascade",
+          "palette": "aurora"
+        },
+        {
+          "name": "Silencio azul",
+          "start": 62.222222,
+          "end": 71.111111,
+          "effect": "breathe",
+          "palette": "aurora"
+        },
+        {
+          "name": "El despertar",
+          "start": 71.111111,
+          "end": 80.0,
+          "effect": "waves",
+          "palette": "aurora"
+        },
+        {
+          "name": "Bóvedas de color",
+          "start": 80.0,
+          "end": 88.888889,
+          "effect": "orbit",
+          "palette": "aurora"
+        },
+        {
+          "name": "Un mismo cielo",
+          "start": 88.888889,
+          "end": 97.777778,
+          "effect": "bloom",
+          "palette": "aurora"
+        },
+        {
+          "name": "Luz para encontrarnos",
+          "start": 97.777778,
+          "end": 106.666667,
+          "effect": "finale",
+          "palette": "aurora"
+        }
+      ]
+    }
+  ],
+  "musicCredit": "Tres composiciones instrumentales originales sintetizadas para Joker Plaza. Sin grabaciones, samples ni voces de terceros."
+}
