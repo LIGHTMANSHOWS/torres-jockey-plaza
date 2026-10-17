@@ -1,6 +1,6 @@
 # LIGHTMAN · Jockey Plaza · Torres de luz
 
-[Abrir el visualizador](https://lightmanshows.github.io/torres-joker-plaza/)
+[Abrir el visualizador](https://lightmanshows.github.io/torres-jockey-plaza/)
 
 Dos estructuras de 6 m con delineado neón pixel RGB, control cada 5 cm y acabado luminoso continuo. La geometría interpreta la fotografía de referencia del usuario; la altura y el paso son los requisitos confirmados. Los diámetros, aros, separación y metrajes son estimaciones conceptuales.
 
