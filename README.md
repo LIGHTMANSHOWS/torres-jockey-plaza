@@ -1,4 +1,4 @@
-# LIGHTMAN · Joker Plaza · Torres de luz
+# LIGHTMAN · Jockey Plaza · Torres de luz
 
 [Abrir el visualizador](https://lightmanshows.github.io/torres-joker-plaza/)
 

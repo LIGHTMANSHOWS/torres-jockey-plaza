@@ -88,7 +88,7 @@ for idx,(tid,title,bpm,theme,palette,roots,scale) in enumerate(CONFIG):
     with wave.open(str(wav),'wb') as f:f.setnchannels(2);f.setsampwidth(2);f.setframerate(SR);f.writeframes((mix*32767).astype('<i2').tobytes())
     subprocess.run(['ffmpeg','-y','-loglevel','error','-i',str(wav),'-c:a','libmp3lame','-b:a','160k',str(target)],check=True)
     print(json.dumps(dict(track=tid,duration=duration,peak=float(np.max(np.abs(mix))),rms=float(np.sqrt(np.mean(mix**2))))),flush=True)
-data=dict(schema='lightman/joker-plaza-shows/v1',tracks=tracks,musicCredit='Tres composiciones instrumentales originales sintetizadas para Joker Plaza. Sin grabaciones, samples ni voces de terceros.')
+data=dict(schema='lightman/joker-plaza-shows/v1',tracks=tracks,musicCredit='Tres composiciones instrumentales originales sintetizadas para Jockey Plaza. Sin grabaciones, samples ni voces de terceros.')
 (OUT/'tracks.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
 (OUT/'tracks-data.js').write_text('window.TRACKS='+json.dumps(data,ensure_ascii=False)+';',encoding='utf-8')
 

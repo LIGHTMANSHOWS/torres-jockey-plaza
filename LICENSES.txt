@@ -5,7 +5,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 MÚSICA
-Tres composiciones instrumentales originales, sintetizadas desde cero para Joker Plaza por el proyecto LIGHTMAN. Sin grabaciones, voces ni samples de terceros. Código de generación incluido.
+Tres composiciones instrumentales originales, sintetizadas desde cero para Jockey Plaza por el proyecto LIGHTMAN. Sin grabaciones, voces ni samples de terceros. Código de generación incluido.
 
 MARCA Y FOTOGRAFÍA
 Logo LIGHTMAN del proyecto anterior y fotografía de referencia proporcionados por el usuario. No se transfieren derechos sobre marcas.
